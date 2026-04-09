@@ -6,7 +6,6 @@
 
 
 PRODUCT_MAKEFILES := \
-    #$(LOCAL_DIR)/lineage_xun.mk \
     $(LOCAL_DIR)/pixelos_xun.mk   # tambahkan ini
 
 COMMON_LUNCH_CHOICES := \
